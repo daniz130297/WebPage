@@ -1,0 +1,133 @@
+body {
+  font-family: "Merriweather", serif;
+  margin: 0;
+  text-align: center;
+  color: #40514e;
+}
+h1,
+h2 {
+  color: #66bfbf;
+}
+h1 {
+  font-size: 5.625rem;
+  margin-top: 50px auto 0 auto;
+
+  font-family: "sacramento", cursive;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3 {
+  font-family: "Montserrat", san-serif;
+  color: #11999e;
+}
+.middle-container {
+  margin: 100px 0;
+}
+
+
+.top-container {
+  background-color: #e4f9f5;
+  padding-top: 50px;
+  position: relative;
+}
+hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+
+.pro {
+  text-decoration: underline;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+}
+.top-cloud {
+  position: relative;
+  left: 200px;
+  top: 40px;
+}
+.games {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.dev {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+.coach {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.image-profile {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+.footer-link {
+  color: #11999e;
+  margin-left: 10px;
+}
+.social-media {
+  height: 25px;
+  width: 25px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+.author {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0 ;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+p {
+  line-height: 2;
+}
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.btn {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 1.25rem;
+  border-radius: 8px;
+  background-color: #11cdd4;
+  padding: 10px 20px 10px 20px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #30e3cb;
+  background-image:-webkit-linear-gradient(top,#30e3cb,#2bc4ad);
+  background-image:-moz-linear-gradient(top,#30e3cb,#2bc4ad;)
+  background-image:-ms-linear-gradient(top,#30e3cb,#2bc4ad);
+  background-image:-o-linear-gradient(top,#30e3cb,#2bc4ad);
+  background-image:linear-gradient(top,#30e3cb,#2bc4ad);
+  text-decoration none;
+
+}
